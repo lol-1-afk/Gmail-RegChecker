@@ -5,4 +5,4 @@ RegChecker for gmail emails.
   email@gmail.com
   email@gmail.com:password
   
-output: exists.txt file containing list of existing emails 
+<b>output</b>: exists.txt file containing list of existing emails 
